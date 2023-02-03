@@ -13,31 +13,31 @@ them?_
 
 The need is to improve the ease of creating crochet patterns, and to allow
 people who are currently working on a crochet project to easily keep track of
-where they are in a project.
+the progress that they have made on a project.
 
 ### Why a language?
 
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
 
 In terms of creating a crochet pattern, it would be very benificial for a
-pattern creater to have a programming language where they could easily add to
-and manipulate the pattern, and then have an easy way to create an nice
-pattern output. Then, for someone using the pattern it would be easy for them
-to follow along. There could be both a PDF output, or an interative way to state
+pattern creater to have a programming language where they could easily add to,
+and manipulate the pattern, and then have an easy way to create a beautiful
+pattern output. Then, for someone using the pattern it would be easy
+to follow. There could be both a PDF output and an interative way to state
 what progress you have made in the project while following the pattern. You
-could also add your own notes, or edit the pattern yourself using thel anguage.
+could also add your own notes, or edit the pattern yourself using the language.
 
 ### Why you?
 
 _What excites you about this idea? How did you come up with it?_
 
 I like to crochet, and I find it difficult to keep track of where I am in my
-project when I am either following a pattern, partially follwing a pattern
+project when I am either following a pattern, partially following a pattern
 while making my own changes, or when I have created my own projects without a
-pattern. I came up with this idea because I would love an easy way to create
-crochet patterns, and I am already knowledgeable about this domain. It is also
-a cool domain because it already has it's own abbreviations that could be used
-in the language.
+pattern. I came up with this idea because I would like there to be an easy way
+to create crochet patterns, and I am already knowledgeable about this domain. It
+is also a cool domain because it already has it's own abbreviations (it's own
+language) that could be used in the language.
 
 ### Domain
 
@@ -56,7 +56,7 @@ exported to either a PDF, or to an interactive program where the user gets to
 keep track of what instruction they are on. I think the coding is the right
 domain because it would allow the user to easily edit and create a pattern.
 They could also add stylistic choices for the PDF output. The PDF output is
-appropriate because that is how crochet patterns are currently circulated. And,
+appropriate because that is how crochet patterns are currently circulated. And
 the interactive program that you load the code into would be very helpful for
 people working on crochet projects.
 
@@ -74,7 +74,7 @@ instruction. They can also maybe scale the project with crochet hook and yarn
 size.
 
 An error that might occur would be if the number of stitches does not line up
-on a project. This would be a compile time error, and would help the pattern
+on a project. This would be a runtime error, and would help the pattern
 creator make their pattern functional.
 
 ### Expressiveness
@@ -96,7 +96,8 @@ do they address the need? Are there any particularly admirable qualities of the
 language? Are there parts of the language you think could be improved?_
 
 There are crochet apps that help you work on a pattern, but I have not come
-across any apps that help you create your own pattern. See link: https://hearthookhome.com/best-free-crochet-apps/
+across any apps that help you create your own pattern. See link for some
+existing crochet apps: https://hearthookhome.com/best-free-crochet-apps/
 
 Additionally, there is crochet shorthand that people use for creating patterns,
 but I think it would be very cool to transition this into a coding language.
@@ -117,7 +118,7 @@ project (e.g., implementing a complicated semantics that doesn't require a lot
 of language design)?_
 
 I don't think that there would be many systems aspects of the language, as the
-overall concept of crochet pattern creations is pretty free, there would not be
+overall concept of crochet pattern creations is creative, there would not be
 too many limitations. I think there would be lots of space to work on the design
 both in the language creation and in the two output options.
 
@@ -129,7 +130,7 @@ I think it depends on how much work is put into the interactive aspect of the
 project. I imagine that someone could definitely create a very clean language
 and the PDF output. There would then be room for the person to add the
 interactive output, and maybe add more ways for the user to be creative in their
-pattern creation.
+pattern creation (like adding new stitch definitions).
 
 ### Benefits and drawbacks
 
