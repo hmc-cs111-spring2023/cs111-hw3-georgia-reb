@@ -96,8 +96,6 @@ is specifically focused on creating full crystals, it is a very large and
 complicated program to use.
 https://crystalmaker.com/
 
-The program currently used by the person who I interviewed is:
-
 What is unique about this project, is that it is very focused, and should then
 be a much simpler and more intuitve program for chemists to use.
 
